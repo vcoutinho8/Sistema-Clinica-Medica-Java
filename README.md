@@ -13,8 +13,3 @@ Este é um projeto acadêmico desenvolvido para consolidar os fundamentos de **P
 2. **Validação de Data:** Consultas só podem ser agendadas para o futuro.
 3. **Fluxo de Atendimento:** O histórico clínico só pode ser gerado se o paciente tiver comparecido à consulta.
 4. **Integridade de Dados:** Prazos de exames devem ser positivos e históricos não podem ser vazios.
-
-## 📋 Como Executar
-1. Certifique-se de ter o JDK 11 ou superior instalado.
-2. Compile os arquivos: `javac *.java`
-3. Execute a classe principal: `java Main`
